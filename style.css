@@ -1,0 +1,229 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    /* font-family: 'Montserrat', sans-serif; */
+    color: white;
+}
+
+a {
+    text-decoration: none;
+}
+
+body {
+    background-color: rgba(0, 0, 0);
+}
+
+.promobgru {
+    background-image: url(img/mainGifru.gif);
+    background-position: center;
+    background-position: middle;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.promobgen {
+    background-image: url(img/mainGifen.gif);
+    background-position: center;
+    background-position: middle;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+header {
+    background-color: rgba(0, 0, 0, 0.85);
+    text-align: center;
+}
+
+.logo {
+    display: inline-block;
+    padding: 30px;
+    font-size: 50px;
+    color: red;
+}
+
+.menu {
+    display: inline-block;
+    padding: 30px;
+    text-align: right;
+    width: 60%;
+}
+
+.menu-element {
+    display: inline-block;
+    font-size: 35px;
+    margin-left: 40px;
+}
+
+.promo {
+    text-align: center;
+    padding: 7% 20% 8% 20%;
+}
+
+.promo-slogan {
+    font-size: 55px;
+}
+
+.promo-text {
+    line-height: 1.5;
+    margin-top: 50px;
+    font-size: 35px;
+}
+
+.download {
+    display: inline-block;
+    background-color: rgb(0, 0, 0, 0.85);
+    font-size: 53px;
+    padding: 30px 140px;
+    margin-top: 8%;
+    border-radius: 50px;
+}
+
+.content {
+    background: linear-gradient(rgb(46, 5, 5), rgb(0, 0, 0));
+    text-align: center;
+}
+
+.promobox {
+    text-align: center;
+    display: inline-block;
+    padding: 20px;
+    border-radius: 30px;
+    font-size: 33px;
+    width: 370px;
+    height: 400px;
+    background: linear-gradient(#3c3333,#2e2e2e9e);
+    margin: 8% 2%;
+}
+
+.promobox img {
+    width: 150px;
+    height: 150px;
+    margin-bottom: 20px;
+}
+
+.phone-img {
+    display: inline-block;
+    height: 700px;
+    margin: 2% 6% 8% 6%;
+}
+
+.app-info{
+    display: inline-block;
+    font-size: 50px;
+    text-align: left;
+    width: 700px;
+    margin: 2% 5% 8% 5%;
+    vertical-align: top;
+}
+
+.info{
+    margin-top: 40px;
+    font-size: 30px;
+}
+
+.outro-content {
+    background: linear-gradient(#000000, #2e0505);
+    text-align: center;
+}
+
+.about {
+    display: inline-block;
+    font-size: 40px;
+    text-align: left;
+    margin: 2% 6%;
+    width: 50%;
+    vertical-align: top;
+}
+
+.about div{
+    margin: 2% 0% 6% 0%;
+}
+
+.download-links {
+    margin: 2% 2%;
+    display: inline-block;
+    text-align: right;
+}
+
+.download-links a {
+    display: block;
+    margin-top: 6%;
+}
+
+.about i {
+    margin-left: 4%;
+    font-size: 30px;
+}
+
+.FAQ {
+    text-align: center;
+    font-size: 50px;
+    padding-top: 5%;
+}
+
+.QA {
+    margin: 4% auto;
+    background-color: #18155B;
+    width: 40%;
+    font-size: 30px;
+    border-radius: 15px;
+}
+
+.Q {
+    background-color: #0075C6;
+    border-radius: 15px;
+    padding: 15px 20px;
+}
+
+.A {
+    padding: 15px 20px;
+}
+
+.signinform {
+    display: inline-block;
+    width: 20%;
+    padding: 20px;
+    padding-bottom: 40px;
+    margin: auto;
+    margin-top: 10%;
+    margin-bottom: 19%;
+    background: linear-gradient(#3c3333,#2e2e2e9e);
+    border-radius: 10px;
+}
+
+.formelement {
+    display: block;
+    text-align: left;
+    margin: auto;
+    font-size: 26px;
+}
+
+.backbutton {
+    position: absolute;
+    top: 25px;
+    left: 40px;
+    font-size: 45px;
+}
+
+.signinform input {
+    color: black;
+    font-size: 20px;
+    margin-top: 15px;
+    border-radius: 10px;
+}
+
+.textplace {
+    width: 90%;
+    height: 30px;
+}
+
+.signinform label {
+    margin-left: 20px;
+    margin-top: 30px;
+}
+
+.submit {
+    padding: 10px 30px;
+    margin-top: 40px !important;
+    border-radius: 10px;
+}
